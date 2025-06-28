@@ -50,7 +50,7 @@ This project presents a comprehensive analysis of Blinkit's sales and delivery d
 ## 📸 Dashboard Preview
 
 > _Include screenshots here:_
-> ![Sales Overview](images/sales_overview.png)
+> ![Sales Overview](https://github.com/kamalremalli/power-bi-project/blob/main/power%20bi%20project.png)
 > ![Delivery Performance](images/delivery_analysis.png)
 
 ---
@@ -63,10 +63,6 @@ This project presents a comprehensive analysis of Blinkit's sales and delivery d
 
 ---
 
-## 📬 Contact
 
-For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/) or open an issue.
 
----
 
-**License**: [MIT](LICENSE)
